@@ -12,4 +12,7 @@ InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned 
 Built a clustering model using K-means and Agglomerative clustering to identify major customer segments on transactions data for the UK based non-store online retail. Engineered new features to obtain new features such as RFM, busist days, time, month, RFMGroup, and RFMScore for getting more details about the customer. Obtained optimal number of clusters using Silhouette Analysis, Elbow Method and visual inspection of dendogram resulting from Hierarchical Clustering . Leveraged the visualization library t-SNE for multi-dimentional scaling to visualize and validate the inter-cluster separation and intra-cluster similarity.
 
 ## Conclusion :
+Here are the final number of clusters obtained.
+![image](https://user-images.githubusercontent.com/93940544/198879451-cc8c37e5-dd3c-4f38-bbc4-4790761ea92c.png)
+
 
