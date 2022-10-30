@@ -13,6 +13,8 @@ Built a clustering model using K-means and Agglomerative clustering to identify 
 
 ## Conclusion :
 Here are the final number of clusters obtained.
-![image](https://user-images.githubusercontent.com/93940544/198879451-cc8c37e5-dd3c-4f38-bbc4-4790761ea92c.png)
+![Screenshot (230)](https://user-images.githubusercontent.com/93940544/198880392-be10d42b-889e-49e0-b89e-1ac00e50c8fd.png)
+
+
 
 
